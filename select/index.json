@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "secret",
+  "base_artist": "上原歩夢 (CV.大西亜玖璃)",
+  "createdAt": "2025-12-14T07:31:21.858734Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Secret Love - Live",
+      "artist": "Freddy Fender",
+      "has_synced": false,
+      "path": "select/01_Secret_Love_-_Live_Freddy_Fender.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Secret of Life",
+      "artist": "Nick O'Brien",
+      "has_synced": false,
+      "path": "select/02_The_Secret_of_Life_Nick_O'Brien.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Secret",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/03_Secret_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Top Secret",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/04_Top_Secret_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Top Secret",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/05_Top_Secret_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Two Secret Weapons",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/06_Two_Secret_Weapons_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Two Secret Weapons (Instrumental)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/07_Two_Secret_Weapons_(Instrumental)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tell Me A Secret",
+      "artist": "Ludacris feat. Ne-Yo",
+      "has_synced": false,
+      "path": "select/08_Tell_Me_A_Secret_Ludacris_feat._Ne-Yo.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tell Me a Secret (feat. Ne-Yo)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/09_Tell_Me_a_Secret_(feat._Ne-Yo)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Le Pouvoir Secret",
+      "artist": "Rockin' Squat",
+      "has_synced": true,
+      "path": "select/10_Le_Pouvoir_Secret_Rockin'_Squat.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Secret Life of Arabia",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/11_The_Secret_Life_of_Arabia_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Secret Lover",
+      "artist": "Clyde Carson",
+      "has_synced": false,
+      "path": "select/12_Secret_Lover_Clyde_Carson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Secret Weapon",
+      "artist": "ZHU",
+      "has_synced": false,
+      "path": "select/13_Secret_Weapon_ZHU.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In My Secret Life",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/14_In_My_Secret_Life_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "secret",
+      "artist": "上原歩夢 (CV.大西亜玖璃)",
+      "has_synced": false,
+      "path": "select/pl_01_secret_上原歩夢_(CV.大西亜玖璃).txt"
+    }
+  ]
+}
